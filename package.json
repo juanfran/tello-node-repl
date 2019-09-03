@@ -1,0 +1,19 @@
+{
+  "name": "tello-node-repl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanfran/tello-node-repl.git"
+  },
+  "author": "Juanfran Alcántara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanfran/tello-node-repl/issues"
+  },
+  "homepage": "https://github.com/juanfran/tello-node-repl#readme"
+}
